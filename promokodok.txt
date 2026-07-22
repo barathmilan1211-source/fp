@@ -6,3 +6,6 @@
 ("SUPER0") ("50%")
 ("BRADÓRZ") ("25%")
 ("CSÍRA") ("12%")
+("SUPEROKOSSZÉK") ("11%")
+("SUPEROKOSSZÉK1") ("20%")
+("TESZT") ("-110%")
